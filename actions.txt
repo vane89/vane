@@ -1,0 +1,2 @@
+com.pandora.android.ACTION_CONNECTED
+com.pandora.android.ACTION_DISCONNECTED
